@@ -1,6 +1,6 @@
-# A guide to Rust for Kotlin developers
+# A guide to Rust for Kotlin developers (На Русском) | Идёт перевод.
 
-This is book comparing the differences and similarities between Kotlin and Rust, it also has a few useful tips and links.
+Это книга, которая позволит вам понять различия и сходства Kotlin с Rust с советами и ссылками.
 
 View at <https://emmabritton.github.io/kotlin-rust-guide>
 
